@@ -1,0 +1,72 @@
+
+Windows IP Yapçlandçrmasç
+
+
+Kablosuz LAN baßdaütçrçcçsç Kablosuz Aß Baßlantçsç 2:
+
+   Medya Durumu  . . . . . . . . . . : Medya Baßlantçsç kesildi
+   Baßlantçya îzgÅ DNS Soneki .  . . : 
+
+Kablosuz LAN baßdaütçrçcçsç Kablosuz Aß Baßlantçsç:
+
+   Baßlantçya îzgÅ DNS Soneki .  . . : 
+   Baßlantç Yerel IPv6 Adresi . . . . . : fe80::b84b:6cdf:9fba:541f%12
+   IPv4 Adresi. . . . . . . . . . . : 192.168.0.11
+   Alt Aß Maskesi. . . . . . . . . . : 255.255.255.0
+   Varsayçlan Aß Geáidi. . . . . . . : 192.168.0.1
+
+Ethernet baßdaütçrçcç Yerel Aß Baßlantçsç:
+
+   Medya Durumu  . . . . . . . . . . : Medya Baßlantçsç kesildi
+   Baßlantçya îzgÅ DNS Soneki .  . . : 
+
+Ethernet baßdaütçrçcç VirtualBox Host-Only Network:
+
+   Baßlantçya îzgÅ DNS Soneki .  . . : 
+   Baßlantç Yerel IPv6 Adresi . . . . . : fe80::3cfb:bfae:5638:eb53%20
+   Otomatik Yapçlandçrma IPv4 Adresi. . : 169.254.235.83
+   Alt Aß Maskesi. . . . . . . . . . : 255.255.0.0
+   Varsayçlan Aß Geáidi. . . . . . . : 
+
+Ethernet baßdaütçrçcç VirtualBox Host-Only Network #2:
+
+   Baßlantçya îzgÅ DNS Soneki .  . . : 
+   Baßlantç Yerel IPv6 Adresi . . . . . : fe80::68e0:119e:6042:baf1%21
+   IPv4 Adresi. . . . . . . . . . . : 192.168.99.1
+   Alt Aß Maskesi. . . . . . . . . . : 255.255.255.0
+   Varsayçlan Aß Geáidi. . . . . . . : 
+
+Tunnel baßdaütçrçcç Reusable ISATAP Interface {5BBF647C-F851-4C80-9790-2EDA2AF30A9C}:
+
+   Medya Durumu  . . . . . . . . . . : Medya Baßlantçsç kesildi
+   Baßlantçya îzgÅ DNS Soneki .  . . : 
+
+Tunnel baßdaütçrçcç isatap.{EEC29390-8A19-486D-BC68-A46FD3208301}:
+
+   Medya Durumu  . . . . . . . . . . : Medya Baßlantçsç kesildi
+   Baßlantçya îzgÅ DNS Soneki .  . . : 
+
+Tunnel baßdaütçrçcç isatap.{BAD17E78-7FB0-44DA-902C-31237B5856CC}:
+
+   Medya Durumu  . . . . . . . . . . : Medya Baßlantçsç kesildi
+   Baßlantçya îzgÅ DNS Soneki .  . . : 
+
+Tunnel baßdaütçrçcç Teredo Tunneling Pseudo-Interface:
+
+   Medya Durumu  . . . . . . . . . . : Medya Baßlantçsç kesildi
+   Baßlantçya îzgÅ DNS Soneki .  . . : 
+
+Tunnel baßdaütçrçcç isatap.{69E14223-E011-429C-9BB2-3268D5B621A7}:
+
+   Medya Durumu  . . . . . . . . . . : Medya Baßlantçsç kesildi
+   Baßlantçya îzgÅ DNS Soneki .  . . : 
+
+Tunnel baßdaütçrçcç isatap.{71C8DBAF-C564-4AA8-B15E-6D9F6309C521}:
+
+   Medya Durumu  . . . . . . . . . . : Medya Baßlantçsç kesildi
+   Baßlantçya îzgÅ DNS Soneki .  . . : 
+
+Tunnel baßdaütçrçcç isatap.{0BC3A49C-EBA5-47E0-8372-CFE936CFA37A}:
+
+   Medya Durumu  . . . . . . . . . . : Medya Baßlantçsç kesildi
+   Baßlantçya îzgÅ DNS Soneki .  . . : 
